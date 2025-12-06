@@ -1,10 +1,11 @@
 #include <stdio.h>
 // The Hello World! Program
 
-int main() 
+int main(void) 
 {
 
 printf("Hello, World!\n");
 
+return 0;
 
 }
