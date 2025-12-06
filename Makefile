@@ -1,4 +1,4 @@
-CC = gcc
+C = gcc
 CFLAGS = -Wall -Wextra -std=c11
 
 # Default target
