@@ -1,8 +1,16 @@
 # 01 Basics
 
+The best way to learn a new programming language is by writing codes/programs in it.
+It has been a culture now, to write the "Hello, World!" program for all languages.
+For the basics you would be writing your first c program (A program that prints 
+"Hello, world!" to the console) shortly...
+
+Next would be a program that converts Farenheit to Celsius and vice versa.
+
+
 **Objective:** Understand the structure of a C program, the compilation process (GCC), and basic output.
 
-##File Manifest
+## File Manifest
 | File | Description |
 |------|-------------|
 | `hello.c` | Standard Hello World program. |
