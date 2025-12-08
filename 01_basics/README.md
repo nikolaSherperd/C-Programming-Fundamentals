@@ -5,7 +5,8 @@ It has been a culture now, to write the "Hello, World!" program for all language
 For the basics you would be writing your first c program (A program that prints 
 "Hello, world!" to the console) shortly...
 
-Next would be a program that converts Farenheit to Celsius and vice versa.
+Next would be a program that converts Farenheit to Celsius and vice versa, for a better understanding of
+**Variables and Arithmetic Expressions.**
 
 
 **Objective:** Understand the structure of a C program, the compilation process (GCC), and basic output.
