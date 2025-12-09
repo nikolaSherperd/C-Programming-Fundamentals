@@ -15,7 +15,7 @@ Next would be a program that converts Farenheit to Celsius and vice versa, for a
 | File | Description |
 |------|-------------|
 | `hello.c` | Standard Hello World program. |
-| `f2c.c` | Fahrenheit to Celsius (Variable basics). |
+| `faren_to_celsius.c` | Fahrenheit to Celsius (Variable basics). |
 | `the for statement, symbolic constants, char input and output etc.` | Exploring `<limits.h>` constants. |
 
 ## 🧠 Key Concepts
