@@ -31,6 +31,12 @@ int main()
   upper = 300; //Upper limit on Temperature scale
   step  = 20; //step Size
   
+  fahr = lower;
+  while (fahr <= upper) {
 
+	  celsuis = 5 * (fahr-32) / 9;
+	  printfr("%d\t%\nd", fahr, celsius);
+	  fahr = fahr + step
+  }
 
 }
