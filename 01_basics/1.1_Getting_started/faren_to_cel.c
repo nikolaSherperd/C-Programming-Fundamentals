@@ -21,9 +21,16 @@
  * 280             126
  * 300             137*/
 
-int main(){
+int main()
+{
 
+  int fahr, celsius;
+  int lower, upper, step;
 
+  lower = 0;    //Lower limit on Temperature scale
+  upper = 300; //Upper limit on Temperature scale
+  step  = 20; //step Size
+  
 
 
 }
