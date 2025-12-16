@@ -15,11 +15,12 @@
  * 160		   60
  * 180		   71
  * 200		   82
- * 220             93
- * 240             104
- * 260             115
- * 280             126
- * 300             137*/
+ * 210             93
+ * 220             104
+ * 240             115
+ * 260             126
+ * 280             137
+ * 300             148*/
 
 int main()
 {
@@ -34,9 +35,9 @@ int main()
   fahr = lower;
   while (fahr <= upper) {
 
-	  celsuis = 5 * (fahr-32) / 9;
-	  printfr("%d\t%\nd", fahr, celsius);
-	  fahr = fahr + step
+	  celsius = 5 * (fahr-32) / 9;
+	  printf("%d\t%d\n", fahr, celsius);
+	  fahr = fahr + step;
   }
 
 }
