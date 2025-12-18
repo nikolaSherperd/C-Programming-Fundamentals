@@ -29,7 +29,7 @@
 int main()
 {
   
-  char* Title;
+  char* Title = "Temperature";
 
   float fahr, celsius;                                   // Use of Float aritmetic for 
 			                                // better precision.
@@ -38,12 +38,16 @@ int main()
   upper = 300;                                        //Upper limit on Temperature scale
   step  = 20;                                        //step Size
   
-  Title = 'Temperature Conversion Table';
+
+  printf("===================================\n");
+  printf("   TEMPERATURE CONVERSIOM TABLE\n");
+  printf("===================================\n");
+  printf("\n");
+
   fahr = lower;
   while (fahr <= upper) {
 
 	  celsius = 5.0 / 9.0 * (fahr-32.0);
-	  printf("%c\n", Title);
 	  printf("%3.0f %6.1f\n", fahr, celsius); // (%3d %6) Prints the 
 					         // first number of each
 					        // line in a field, three
